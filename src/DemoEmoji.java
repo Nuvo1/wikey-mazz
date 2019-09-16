@@ -50,7 +50,7 @@ public class DemoEmoji extends JFrame
          super.paintComponent(g);     
 
          // set background color
-         setBackground(Color.ORANGE);
+         setBackground(Color.YELLOW);
          
          // change color to flesh tone and display face
          g.setColor(new Color(221,160,221));
